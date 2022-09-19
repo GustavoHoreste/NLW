@@ -4,6 +4,8 @@
 
 - Ferramenta crianda junto com a Rocketseat, na imersão dev (NLW).
 
+![Imagem do projeto](./nlw.png)
+
 ## 🛠️ Tecnologias:
 
 - HTML5
